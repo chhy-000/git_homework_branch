@@ -1,3 +1,4 @@
 ﻿document 2
 Modification on B3 branch
 B3 different change in doc2.txt
+C4 change in doc2.txt

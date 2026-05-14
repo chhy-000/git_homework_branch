@@ -1,2 +1,5 @@
 ﻿document 1
+Modification on B3 branch
 B3 different change in doc1.txt
+Modification on B2 branch
+C4 change in doc1.txt
