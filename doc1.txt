@@ -1,1 +1,2 @@
 ﻿document 1
+B3 different change in doc1.txt
